@@ -1,9 +1,9 @@
 # 🚗 Car Dealer Evaluation Platform 
 
-**Project Name:** Car Dealer Evaluation Platform
+**Project Name:** Fullstack_developer_capstone
 **Developer:** TSERENNADMID TUMUR-OCHIR  
 **Course:** IBM Full Stack Application Development Capstone
-**Repository Name:** dealership-review-app
+**Repository Name:** xrwvm-fullstack_developer_capstone
 
 ## 🌟 Features
 
