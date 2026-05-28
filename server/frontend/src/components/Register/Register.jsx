@@ -68,22 +68,22 @@ const Register = () => {
           </div>
           <div>
             <img src={user_icon} className="img_icon" alt='First Name'/>
-            <input type="text"  name="first_name" placeholder="First Name" className="input_field" onChange={(e) => setFirstName(e.target.value)}/>
+            <input type="text"  placeholder="first_name" name="firstName" className="input_field" onChange={(e) => setFirstName(e.target.value)}/>
           </div>
 
           <div>
             <img src={user_icon} className="img_icon" alt='Last Name'/>
-            <input type="text"  name="last_name" placeholder="Last Name" className="input_field" onChange={(e) => setlastName(e.target.value)}/>
+            <input type="text"  placeholder="last_name" name="lastName" className="input_field" onChange={(e) => setlastName(e.target.value)}/>
           </div>
 
           <div>
             <img src={email_icon} className="img_icon" alt='Email'/>
-            <input type="email"  name="email" placeholder="email" className="input_field" onChange={(e) => setEmail(e.target.value)}/>
+            <input type="email"  placeholder="email" name="email" className="input_field" onChange={(e) => setEmail(e.target.value)}/>
           </div>
 
           <div className="input">
             <img src={password_icon} className="img_icon" alt='password'/>
-            <input name="psw" type="password"  placeholder="Password" className="input_field" onChange={(e) => setPassword(e.target.value)}/>
+            <input type="password" placeholder="Password" name="password" className="input_field" onChange={(e) => setPassword(e.target.value)}/>
           </div>
 
         </div>
