@@ -1,15 +1,17 @@
-# 🚗 Dealerships Review Portal - India
+# 🚗 Cars Dealership Portal 
 
-A comprehensive web platform for browsing car dealerships and managing customer reviews across India.
+**Project Name:** Cars Dealership Portal  
+**Developer:** TSERENNADMID TUMUR-OCHIR  
+**Course:** IBM Full Stack Application Development Capstone
 
 ## 🌟 Features
 
-- **Browse Dealerships**: View dealerships by state with detailed information across India
+- **Browse Dealerships**: View dealerships by state with detailed information across
 - **User Authentication**: Secure login/register system
 - **Review System**: Read and write dealership reviews
 - **Sentiment Analysis**: AI-powered review sentiment detection
 - **Responsive Design**: Mobile-friendly interface
-- **State-wise Filtering**: Filter dealerships by Indian states
+- **State-wise Filtering**: Filter dealerships
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +36,8 @@ A comprehensive web platform for browsing car dealerships and managing customer 
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/sakshisonawane12/Cousera_IBM_Full-Stack-Application-Development-Capstone-Project.git
-cd dealerships-review-portal-india
+git clone https://github.com/Nandia203nad/IBM_Full-Stack-Application-Development-Capstone-Project.git
+cd Cars Dealership Portal
 ```
 
 2. **Start Django Backend**
@@ -77,14 +79,6 @@ npm start
 ├── README.md
 └── .gitignore
 ```
-
-## 🇮🇳 Indian Market Focus
-
-This application is specifically designed for the Indian automotive market, featuring:
-
-- Indian state-wise dealership filtering
-- Local currency support (₹)
-- Regional language support potential
 - Indian automotive brands integration
 
 - Tata Motors
