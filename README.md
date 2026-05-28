@@ -1,8 +1,9 @@
-# 🚗 Cars Dealership Portal 
+# 🚗 Car Dealer Evaluation Platform 
 
-**Project Name:** Cars Dealership Portal  
+**Project Name:** Car Dealer Evaluation Platform
 **Developer:** TSERENNADMID TUMUR-OCHIR  
 **Course:** IBM Full Stack Application Development Capstone
+**Repository Name:** dealership-review-app
 
 ## 🌟 Features
 
